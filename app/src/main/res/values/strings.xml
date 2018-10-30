@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ResponseBundle</string>
+    <string name="buttonExplicitActivity">Go to Explicit Activity</string>
+    <string name="textViewSinglename">SingleName</string>
+    <string name="textViewBundlename">BundleName</string>
+    <string name="textViewResultvalue">Result Value</string>
+    <string name="editTextResultvalue">Result value</string>
+</resources>
